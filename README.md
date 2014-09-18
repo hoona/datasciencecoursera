@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Data Science Specialization through Coursera
+Coursera Data Scientist's Toolbox Homework Assignment
